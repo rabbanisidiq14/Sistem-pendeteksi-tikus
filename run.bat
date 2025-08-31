@@ -1,0 +1,1 @@
+"E:\Projects\Pendeteksi Tikus\venv\Scripts\Python.exe" yolo_detect_mqtt.py --model my_model.pt --source usb0 --resolution 640x420
